@@ -1,3 +1,3 @@
 ### Change Ubuntu Hostname
-hostnamectl set-hostname new-hostname
+hostnamectl set-hostname new-hostname    
 

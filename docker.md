@@ -8,11 +8,9 @@ base=https://github.com/docker/machine/releases/download/v0.16.0 \
   && chmod +x /usr/local/bin/docker-machine
 
 
-
-
 ### Basic commands
 docker run -d -v jenkins_home:/var/jenkins_home -p 8080:8080 -p 50000:50000 jenkins/jenkins:lts-jdk11  
-docker ps   
+docker ps     
 docker rm  container_id     
 docker inspect container_id   
 

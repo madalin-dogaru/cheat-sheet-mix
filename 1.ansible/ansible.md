@@ -20,7 +20,7 @@ ansible_ssh_private_key_file=/home/template/.ssh/id_ed25519
 
 
 ### Create a role
-sudo ansible-galaxy init role-name
+sudo ansible-galaxy init role-name    
 
 
 
