@@ -12,7 +12,7 @@ char[] charArray = sentence.ToCharArray();
 foreach (char character in charArray)  
 {  
     Console.WriteLine(character);  
-    }   
+}   
 ```
 
 ### 
