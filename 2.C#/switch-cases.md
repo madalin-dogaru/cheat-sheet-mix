@@ -1,3 +1,4 @@
+```
 using System;
 
 namespace SwitchStatement
@@ -42,3 +43,4 @@ namespace SwitchStatement
     }
   }
 }
+```
