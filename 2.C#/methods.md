@@ -38,6 +38,6 @@ namespace ReviewMethodOutput
       wasWhisperCalled = true;
       return phrase.ToLower();
     }
-	}
+    }
 }
 ```
