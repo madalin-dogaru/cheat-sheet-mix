@@ -1,3 +1,4 @@
+```
 // f1, f2, and f3 are out parameters, so they must be prefixed with `out`.
 
 static void GetFavoriteFoods(out string f1, out string f2, out string f3)
@@ -20,3 +21,4 @@ static void Main()
   // After the method call, food1 = "Sushi", food2 = "Pizza", and food3 = "Hamburgers".
   Console.WriteLine($"My top 3 favorite foods are {food1}, {food2}, and {food3}");
 }
+```
