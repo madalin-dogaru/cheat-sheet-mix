@@ -11,7 +11,7 @@ namespace AccessingArrays
     {     
       string[] summerStrut;
       
-      summerStrut = new string[] { "Juice", "Missing U", "Raspberry Beret", "New York Groove", "Make Me Feel", "Rebel Rebel", "Despacito", "Los Angeles" };
+      summerStrut = new string[] { "Juice", "Missing U", "Raspberry Beret", "New York Groove", "Make Me Feel", "Rebel Rebel", "Card", "Los Angeles" };
       
       int[] ratings = { 5, 4, 4, 3, 3, 5, 5, 4 };
          
@@ -33,7 +33,7 @@ namespace EditingArrays
     {     
       string[] summerStrut;
       
-      summerStrut = new string[] { "Juice", "Missing U", "Raspberry Beret", "New York Groove", "Make Me Feel", "Rebel Rebel", "Despacito", "Los Angeles" };
+      summerStrut = new string[] { "Juice", "Missing U", "Raspberry Beret", "New York Groove", "Make Me Feel", "Rebel Rebel", "Card", "Los Angeles" };
       
       int[] ratings = { 5, 4, 4, 3, 3, 5, 5, 4 };
       summerStrut[7] = "coke";
@@ -58,7 +58,7 @@ namespace BuiltInMethods
     {     
       string[] summerStrut;
       
-      summerStrut = new string[] { "Juice", "Missing U", "Raspberry Beret", "New York Groove", "Make Me Feel", "Rebel Rebel", "Despacito", "Los Angeles" };
+      summerStrut = new string[] { "Juice", "Missing U", "Raspberry Beret", "New York Groove", "Make Me Feel", "Rebel Rebel", "Card", "Los Angeles" };
       
       int[] ratings = { 5, 4, 4, 3, 3, 5, 5, 4 };
       
