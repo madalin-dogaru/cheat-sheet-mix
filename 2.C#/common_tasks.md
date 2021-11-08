@@ -1,5 +1,5 @@
 ### Convert Bool to String
-```
+```C#
 bool bvariable = true;
 string conv = bvariable.ToString();
 Console.WriteLine("Return Value = "+conv);
