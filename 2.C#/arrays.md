@@ -1,4 +1,4 @@
-```
+```C#
 // Creating and initializing Arrays
 
 using System;
