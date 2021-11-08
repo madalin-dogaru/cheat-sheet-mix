@@ -1,4 +1,4 @@
-```
+```C#
 Expression-bodied definitions can be used for one-line method bodies.
 
     bool isEven(int num) => num % 2 == 0;
