@@ -1,4 +1,4 @@
-```
+```C#
 //For Each ======== 
 string[] states = { "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado" };
   foreach (string state in states) {
