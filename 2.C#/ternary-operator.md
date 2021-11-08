@@ -1,4 +1,4 @@
-```
+```C#
 using System;
 
 namespace TernaryOperator
