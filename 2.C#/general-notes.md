@@ -1,7 +1,12 @@
 ```md
 1. NAMESPACES 
-   Allow structure for our code. Namespaces can be nested so having a namespace contain another namespace
-   but also contain classes, interfaces, delegates. 
-   A class can be used in multiple namespaces. 
+   + Allow structure for our code. Namespaces can be nested so having a namespace contain another namespace
+     but also contain classes, interfaces, delegates. 
+   + A class can be used in multiple namespaces. 
    
-2. 
+2. CLASSES
+   + A class represents a custom data type. In C#, the class defines the kinds of information and methods
+   included in a custom type.
+   + When used in various areas of a program a class will be instantiated or an object will be created. 
+
+3. 
