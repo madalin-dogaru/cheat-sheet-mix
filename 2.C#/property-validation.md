@@ -22,7 +22,7 @@ Console.WriteLine(f.Area);
 ```
 
 ### Example 2
-```
+```C#
 using System;
 
 namespace BasicClasses
