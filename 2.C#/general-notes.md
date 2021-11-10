@@ -8,5 +8,6 @@
    + A class represents a custom data type. In C#, the class defines the kinds of information and methods
    included in a custom type.
    + When used in various areas of a program a class will be instantiated or an object will be created. 
+   + A class will take fields as properties
 
 3. 
