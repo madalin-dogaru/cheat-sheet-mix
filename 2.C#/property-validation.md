@@ -12,7 +12,7 @@ public int Area
   }
 }
 
-// In Program.cs when we call the class
+// In Program.cs when we try to set a value to the fields
 
 Forest f = new Forest();
 // set() is called
