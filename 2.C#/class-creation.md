@@ -21,7 +21,7 @@ namespace BasicClasses
 
 
 
-// Forest.cs - declaring the class and its fields in its own file
+// Forest.cs - declaring the class and its fields(class members) in its own file
 using System;
 
 namespace BasicClasses
