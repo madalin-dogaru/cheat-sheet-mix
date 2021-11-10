@@ -1,6 +1,7 @@
 //Property Validation
 
-```C#
+```C# 
+// creating the Area property validation logic
 public int Area
 {
   get { return area; }
@@ -11,7 +12,7 @@ public int Area
   }
 }
 
-// In Program.cs:
+// In Program.cs when we call the class
 
 Forest f = new Forest();
 // set() is called
