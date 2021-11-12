@@ -1,6 +1,6 @@
 ```C#
-    public string Name
-    { get; set; }
+public string Name
+{ get; set; }
 ```
 The above automatic property will replace: 
 ```C#
