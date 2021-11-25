@@ -10,7 +10,7 @@ ssh-add /home/user/.ssh/id_rsa
 ```
 ### Copy SSH Key to remote Host
 ```
-ssh-copy-id -i ~/.ssh/id_ed25519.pub user@192.170.1.70   
+ssh-copy-id -i ~/.ssh/id_ed25519.pub host-user@host-ip   
 ```
 
 ###   
