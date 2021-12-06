@@ -5,8 +5,7 @@ ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519 -C "thewallachian@wallachia
 
 ### Add the SSH password to the ssh-agent
 ```
-eval `ssh-agent`   
-ssh-add /home/user/.ssh/id_rsa
+ssh-add -K ~/.ssh/id_ed25519
 ```
 ### Copy SSH Key to remote Host
 ```
