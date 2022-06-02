@@ -9,3 +9,13 @@ sudo nano /etc/hosts
 Upload the local file test.apk to a remote host via SCP
 ---
 scp test.apk will@10.129.102.174:/home/will
+
+
+Setup a network bridge
+---
+brctl show              #show existing bridges
+brctl delbr bridgeName  #delete bridge
+brctl addbr bridgeName  #create bridge
+
+
+
