@@ -14,12 +14,18 @@ Upload the local file test.apk to a remote host via SCP
 Setup a network bridge
 ---
 Show existing bridges   
-`brctl show`   
+`brctl show`  
+
 Delete bridge   
-`brctl delbr bridgeName`   
+`brctl delbr bridgeName`  
+
 Create bridge   
-`brctl addbr bridgeName`    
+`brctl addbr bridgeName`  
+
 Add interfaces to bridge    
 `brctl addif bridgeName eth0 eth1`
+
+See all MAC addresses on a bridge   
+`brctl showmacs prod`
 
 
